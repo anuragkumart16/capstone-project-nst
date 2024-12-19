@@ -19,6 +19,10 @@
     font-size:28px;
     margin: 16px;
     line-height: 32px;
-    color: black;
+    color: rgb(32, 32, 32);
     text-decoration: none;
+}
+.menu-btn:hover{
+    color: black;
+    border-bottom: 2px solid black;
 }
